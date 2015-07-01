@@ -1,2 +1,4 @@
 # dot-files
-Terminal Configs 
+Terminal Configs
+
+It's obligatory.
