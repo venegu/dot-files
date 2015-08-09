@@ -1,0 +1,30 @@
+{
+    "caret-extra-width": 4,
+    "caret_extra_bottom": 0,
+    "caret_style": "phase",
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+    "font-face": "Monaco",
+    "font_size": 16,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "match_brackets": true,
+    "match_brackets_angle": true,
+    "match_brackets_braces": true,
+    "match_brackets_content": true,
+    "match_brackets_square": true,
+    "overlay_scroll_bars": "enabled",
+    "rulers":
+    [
+        80,
+        120
+    ],
+    "tab_size": 4,
+    "theme": "Material-Theme.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "wide_caret": true
+}
