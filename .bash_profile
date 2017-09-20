@@ -26,8 +26,23 @@ export SUDO_PS1="\[$bakred\]\u@\h\[$txtrst\] \w "
 export TERM="xterm-color"
 alias ls="ls -G"
 
-# Alias shenagggonas - activates virtual env wrapper for wenv
-alias wenv='source /usr/local/bin/virtualenvwrapper.sh'
+# Alias for Git
+alias gstat='git status'
+alias gall='git add .'
+alias gadd='git add'
+alias gcom='git commit -m'
+alias gpush='git push'
+alias gpull='git pull'
+alias gdiff='git diff'
+alias gclone='git clone'
+alias gout='git checkout'
+alias gmerge='git merge'
+alias glog='git log'
+alias gmaster='git push origin master'
+alias greset='git reset'
+
+# Alias for Python Server
+alias server='python -m SimpleHTTPServer'
 
 # Alias for django fun things that make life easier
 alias djrun='python manage.py runserver '
